@@ -1,0 +1,34 @@
+[
+    {
+    "id": 1,
+    "shop": "我是店铺名",
+    "pic": "https://static.codemao.cn/official/homepage/auth_1.jpg",
+    "product": "我是商品名",
+    "price": 11.11,
+    "ifCommented": false
+},
+{
+    "id": 2,
+    "shop": "我是店铺名",
+    "pic": "https://static.codemao.cn/official/homepage/auth_1.jpg",
+    "product": "我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名我是商品名",
+    "price": 22.22,
+    "ifCommented": false
+},
+{
+    "id": 3,
+    "shop": "我是店铺名",
+    "pic": "https://static.codemao.cn/official/homepage/auth_1.jpg",
+    "product": "我是商品名",
+    "price": 33.33,
+    "ifCommented": false
+},
+{
+    "id": 4,
+    "shop": "我是店铺名",
+    "pic": "https://static.codemao.cn/official/homepage/auth_1.jpg",
+    "product": "我是商品名",
+    "price": 44.44,
+    "ifCommented": false
+}
+]
